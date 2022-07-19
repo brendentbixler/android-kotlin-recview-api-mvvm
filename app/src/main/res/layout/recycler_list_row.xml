@@ -34,6 +34,16 @@
             android:maxLines="3"
             android:textColor="@color/black"/>
 
+        <TextView
+            android:id="@+id/tvTest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="14sp"
+            android:maxLines="3"
+            android:text="THIS IS A TEST"
+            android:textColor="@color/black"/>
+
     </LinearLayout>
 
 
